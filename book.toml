@@ -1,0 +1,9 @@
+[book]
+authors = ["RanolP"]
+language = "ko"
+multilingual = false
+src = "src"
+title = "아오비 웹 책"
+
+[output.html]
+mathjax-support = true
